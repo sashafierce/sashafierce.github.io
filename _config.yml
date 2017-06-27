@@ -1,4 +1,16 @@
 name: Akanksha Bhardwaj
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+tags:
+- jekyll
+- code
+- linux
+- cyber security
+- android
+- programming 
+- travel
+- food
+- music
+
+
 
