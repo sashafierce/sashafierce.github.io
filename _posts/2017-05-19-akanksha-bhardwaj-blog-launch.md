@@ -2,6 +2,7 @@
 layout: post
 title: "Starting a blog"
 date: 2017-05-19
+tags: Jekyll
 ---
 
 Well, every living being on planet blue-green takes out time to communicate using signals ,gestures ,words. Humans being powerful
