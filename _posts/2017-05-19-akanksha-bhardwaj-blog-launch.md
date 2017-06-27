@@ -7,7 +7,7 @@ tags: Jekyll
 
 Well, every living being on planet blue-green takes out time to communicate using signals ,gestures ,words. Humans being powerful
 use words, to address others and oneself. Writing letters, diaries, to-dos and emails (stretched beyond 4-5 sentences) 
-everyday we waste keystrokes, losing our thoughts and expressions in message threads while we can preserve them. 
+everyday we waste keystrokes, our thoughts and expressions remain scattered in message threads while we can preserve them. 
 A blog is such a place where you get to keep your words, addressed to possibly anyone even inanimate objects(your book shelf), or none at all. 
 
 
