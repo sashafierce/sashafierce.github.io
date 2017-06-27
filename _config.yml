@@ -2,7 +2,7 @@ name: Akanksha Bhardwaj
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 tags:
-- jekyll
+- Jekyll
 - code
 - linux
 - cyber security
