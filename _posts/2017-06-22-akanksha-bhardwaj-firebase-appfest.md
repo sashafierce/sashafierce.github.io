@@ -36,7 +36,7 @@ I enjoyed spending the day in a room full of people wearing Firebase batches, pe
 
 The team who best utilized the Firebase services to complete their product was chosen as the best.
 
-# Suggested Resources by the team :
+### Suggested Resources by the team :
 
 1. [Firebase in a weekend](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352).
 2. [Alpha Program](https://services.google.com/fb/forms/firebasealphaprogram/).
