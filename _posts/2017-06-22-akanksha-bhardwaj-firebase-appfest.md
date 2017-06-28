@@ -19,24 +19,24 @@ talk about the new ['Google Cloud Functions for Firebase'](https://firebase.goog
 [Doug Stevenson](https://twitter.com/CodingDoug) (Developer Advocate, Google), Cloud Functions offers a set of
 event triggers now integrated with Firebase services. For example 'Realtime Database trigger' would enables us to write code
  that would run automatically everytime the user requests some data, checking user access could be one use case. Many teams 
- actually implemented their solutions with help of the Cloud Functions during the Hackathon which was pretty cool!
+ actually implemented their solutions with help of the Cloud Functions during the Hackathon, pretty cool!
  
- <b>The Hackathon</b> begun at 11 AM which was supposed to conclude in 7 hours, which I found pretty less time though this is 
+ <b>The Hackathon</b> begun at 11 AM, it was supposed to conclude in 7 hours, which I found pretty less time though this is 
  what Firebase is for - simplyfing things for mobile developers. As I set out to find a team I realised the majority of attendees already had registered with a team and came 
  with an idea, a good thing if you wish to increase your winning chances though I learnt that Hackathon is a place
  where you ought to work with something new and someone new (courtesy [Joe Nash](https://twitter.com/jna_sh/)) hence I worked 
  with a new friend on
- a webapp using [AngularFire](https://www.firebase.com/docs/web/libraries/angular/api.html) (AngularJS + Firebase) which I never heard of before :sweat_smile:.
+ a webapp using [AngularFire](https://www.firebase.com/docs/web/libraries/angular/api.html) (AngularJS + Firebase) which I never heard of before.
  In the middle of the hackathon there was another interesting talk by [Kushagra Gour](https://twitter.com/chinchang457),
- a guy I would remember as building pretty cool and important ["side-projects"](https://github.com/chinchang) :grin:!
+ a guy I would remember as building pretty cool and important ["side-projects"](https://github.com/chinchang)!
  
  The best thing about the Appfest was the Team which comprised of passionate individuals who were more than willing to help participants visualize solutions 
  using Firebase and guess what they brought along from MTV - white boards, stickers, bean bags and ball pools!
-I enjoyed spending the day in a room full of people wearing Firebase batches, people who knew much more than me :smile:.
+I enjoyed spending the day in a room full of people wearing Firebase batches, people who knew much more than me.
 
 The team who best utilized the Firebase services to complete their product was chosen as the best.
 
-### Suggested Resources by the team :
+## Suggested Resources by the team :
 
 1. [Firebase in a weekend](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352).
 2. [Alpha Program](https://services.google.com/fb/forms/firebasealphaprogram/).
