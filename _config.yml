@@ -1,6 +1,8 @@
 name: Akanksha Bhardwaj
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+layout: default
+comments: true
 tags:
 - Jekyll
 - code
@@ -11,6 +13,8 @@ tags:
 - travel
 - food
 - music
+- google events
+
 
 
 
