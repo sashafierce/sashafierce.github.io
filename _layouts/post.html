@@ -1,9 +1,28 @@
 ---
 layout: default
+comments: true
+tags:
+- Jekyll
+- code
+- linux
+- cyber security
+- android
+- programming 
+- travel
+- food
+- music
+- google events
 ---
 <h1>{{ page.title }}</h1>
 <p class="meta">{{ page.date | date_to_string }}</p>
 <p class="meta">{{ page.tags}}</p>
 <div class="post">
   {{ content }}
+</div>  
+  <!-- Post comments -->
+<div class="notecomments">
+	
+			{% include disqus.html %}	
+	
 </div>
+
